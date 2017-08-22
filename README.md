@@ -1,4 +1,4 @@
-# chatty-cathy
+# chattyCathy
 Chatty Cathy is an interactive Javascript based bot using HTML and CSS. Cathy can answer questions, provide suggestions, and engage in conversation. Cathy is able to generate quick and rich responses to a variety of user queries. Whether its suggesting recipes based on the what is in the user's refrigerator or solving math problems, 
 
 **API's**
